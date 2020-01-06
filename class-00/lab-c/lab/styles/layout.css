@@ -1,0 +1,58 @@
+nav {
+    margin-top: 25px;
+  }
+
+#logo {
+    float: left;
+    padding-bottom: 25px;
+    color: black;
+    text-decoration: none;
+}
+  
+#logo h1 {
+    padding-left: 50px;
+    font-family: 'Yellowtail', cursive;
+    font-size: 2.4em;
+}
+
+  
+  nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+}
+
+h2 {
+    margin-top: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5em;
+  }
+
+  input {
+    font-family: 'Patrick Hand', cursive;
+  }
+
+  aside {
+    padding-top: 30px;
+    padding-bottom: 60px
+  }
+  
+  footer section p{
+    padding: 50px 0;
+    line-height: 1.5em;
+    text-align: center;
+    color: #aaa;
+  }
+  
+  section hr {
+    border-bottom: 1px solid #eee;
+    height: 0;
+  }
+  
+  
+
+
+
+
+  
+
+  
